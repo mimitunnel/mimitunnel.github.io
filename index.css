@@ -65,6 +65,10 @@ a {
     /*border-bottom:dashed 1px #2b9cd0;*/
 }
 
+a:hover{
+    color:#aaa;
+}
+
 .columns {
     float: left;
     width: 100%;
